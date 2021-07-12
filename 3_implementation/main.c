@@ -123,8 +123,8 @@ void operations(){
     printf("Enter m symbol for Modulus\n");
     printf("Enter p symbol for Power \n");
     printf("Enter ! symbol for Factorial\n");
-    printf("Enter P symbol for Max num \n");
-    printf("Enter C symbol for Min num\n");
+    printf("Enter P symbol for permutation  \n");
+    printf("Enter C symbol for combination\n");
     printf("Enter e if you want to exit\n");
 }
 /**
