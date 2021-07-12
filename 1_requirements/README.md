@@ -5,7 +5,7 @@
 # calculator features (applications):-
 The main goal here is to find results of mathematical operations easily.The features of application is we can add,substract,divide,multiply,power of a number.
 find factorial,permutation and combination of a number.
-
+# usecase
 [
 ![usecase](https://user-images.githubusercontent.com/86082546/124637740-befba680-dea7-11eb-810c-e94e04a5d441.png)
 ](url)
@@ -21,3 +21,6 @@ find factorial,permutation and combination of a number.
 7)To find factorial of a number
 8)To find Permuation of a number
 9)To find Combination of a number
+ 
+ # swot
+ ![swot](https://user-images.githubusercontent.com/86082546/125217049-5d8b6b80-e2dd-11eb-92d9-1ca5641d7c9f.png)
