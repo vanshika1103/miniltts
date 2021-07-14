@@ -21,3 +21,11 @@ find factorial,permutation and combination of a number.
 7)To find factorial of a number
 8)To find Permuation of a number
 9)To find Combination of a number
+ # LOW LEVEL REQUIREMENT
+ 
+![LR](https://user-images.githubusercontent.com/86082546/125667719-918a311a-8b18-496b-87a0-53a30818c992.jpeg)
+
+# HIGH LEVEL REQUIREMENT 
+
+
+ 
