@@ -24,3 +24,10 @@ find factorial,permutation and combination of a number.
  
  # swot
  ![swot](https://user-images.githubusercontent.com/86082546/125217049-5d8b6b80-e2dd-11eb-92d9-1ca5641d7c9f.png)
+
+# HIGH LEVEL REQUIREMENTS
+![HR](https://user-images.githubusercontent.com/86082546/125667646-6ce20b40-7dd8-45ed-aa2d-4b875c36663e.jpeg)
+
+# LOW LEVEL REQUIREMENTS
+
+![LR](https://user-images.githubusercontent.com/86082546/125667719-918a311a-8b18-496b-87a0-53a30818c992.jpeg)
