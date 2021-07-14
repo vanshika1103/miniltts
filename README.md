@@ -28,4 +28,4 @@ find factorial,permutation and combination of a number.
 # HIGH LEVEL REQUIREMENT 
 
 
- 
+ ![HR](https://user-images.githubusercontent.com/86082546/125668189-4c700535-c338-41ee-a80c-d4bcb8c6f730.jpeg)
